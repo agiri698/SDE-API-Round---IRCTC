@@ -20,7 +20,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/railway-management-system.git
+
 cd railway-management-system
 2. Install Dependencies
 bash
